@@ -1,2 +1,2 @@
-# Leetcode-Solutions (java)
+# Leetcode-Solutions (java) - Easy
 added solutions
